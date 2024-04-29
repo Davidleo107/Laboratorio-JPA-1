@@ -22,7 +22,7 @@ import static org.eclipse.persistence.expressions.ExpressionOperator.NotNull;
 
 /**
  *
- * @author Sebastian V
+ * @author David Reinoso
  */
 @Entity
 public class Competitor implements Serializable {
