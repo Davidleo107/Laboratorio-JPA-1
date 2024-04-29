@@ -29,7 +29,7 @@ import org.codehaus.jettison.json.JSONObject;
 
 /**
  *
- * @author Sebas
+ * @author David Reinoso
  */
 @Path("/competitors")
 @Produces(MediaType.APPLICATION_JSON)
