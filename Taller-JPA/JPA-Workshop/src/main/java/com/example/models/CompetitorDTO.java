@@ -8,7 +8,7 @@ package com.example.models;
 
 /**
  *
- * @author Sebas
+ * @author David Reinoso
  * //Original, metodos y constructores
  */
 public class CompetitorDTO {
